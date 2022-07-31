@@ -1,0 +1,21 @@
+
+ul li {
+    display: inline-block;
+    background-color: black;
+    color: aliceblue;
+    text-transform: uppercase;
+    padding: 15px ;
+    border-radius: 8px;
+
+}
+
+
+ul li:hover{
+    background-color: rgb(255, 120, 30);
+    color: aliceblue;
+    border-left: 8px solid rgb(223, 30, 40);
+    box-shadow: 0 0 2px 2px red;
+    font-size: 20px;
+    padding-left: 40px;
+}
+    

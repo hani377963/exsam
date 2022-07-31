@@ -1,0 +1,66 @@
+.aa {
+    display: inline-block;
+    border: 2px solid rgb(172, 171, 171);
+    border-radius: 8px;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(158, 167, 245);
+    margin-left: 25%;
+}
+
+.bb {
+    display: inline-block;
+    border: 2px solid rgb(88, 87, 88);
+    border-radius: 8px;
+    width: 97%;
+    height: 100px;
+    margin: 5px;
+    background-color: rgb(9, 247, 159);
+    color: rgb(9, 247, 159);
+
+}
+
+.dd {
+    border: 2px solid rgb(88, 87, 88);
+    border-radius: 8px;
+    width: 200px;
+    height: 376px;
+    margin: 5px;
+    background-color: rgb(9, 247, 159);
+    position: absolute;
+    right: 520px;
+    top: 120px;
+    color: rgb(9, 247, 159);
+
+
+}
+
+.cc {
+    display: inline-block;
+    border: 2px solid rgb(88, 87, 88);
+    border-radius: 8px;
+    width: 275px;
+    height: 258px;
+    margin: 5px;
+    background-color: rgb(9, 247, 159);
+    margin-right: 250px;
+    position: absolute;
+    right: 484px;
+    top: 120px;
+    color: rgb(9, 247, 159);
+}
+
+.oo {
+    display: inline-block;
+    border: 2px solid rgb(88, 87, 88);
+    border-radius: 8px;
+    width: 275px;
+    height: 110px;
+    margin: 5px;
+    background-color: rgb(9, 247, 159);
+    margin-right: 250px;
+    position: absolute;
+    right: 484px;
+    top: 386px;
+    color: rgb(9, 247, 159);
+}

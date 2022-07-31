@@ -1,0 +1,78 @@
+body {
+    background-color: rgb(175, 175, 175);
+}
+.aa {
+    margin: 50px 500px ;
+    border: 1px solid rgb(202, 202, 202);
+    display: inline-block;
+    width: 310px;
+    height: 350px;
+    background-color: rgb(202, 202, 202);
+}
+.a1 {
+    background-color: rgb(38, 46, 46);
+    margin-top: 15px;
+    margin-bottom: 2px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 70px;
+    color: rgb(38, 46, 46);
+}
+
+
+.a2 .bu1 {
+    display: inline-block;
+    min-width: 140px;
+    min-height: 45px;
+    margin: 5px 4px 5px 10px;
+    background-color: aqua;
+    border: 2px solid aqua;
+    text-transform: capitalize;
+    border-radius: 4px;
+}
+.a2 button{
+    display: inline-block;
+   min-width: 69px;
+   min-height: 45px;
+   margin: 2px;
+   color: aliceblue;
+   background-color: black;
+   font-size: 25px;
+   border-radius: 4px;
+}
+.a3 {
+    margin-left: 10px;
+}
+.a3 button {
+    min-width: 68px;
+    min-height: 45px;
+    margin: 2px ;
+    color: aliceblue;
+    background-color: black;
+    font-size: 25px;
+    border-radius: 4px;
+}
+
+.a4 button {
+    min-width: 68px;
+    min-height: 45px;
+    margin: 2px;
+    color: aliceblue;
+    background-color: black;
+    font-size: 25px;
+    border-radius: 4px;
+}
+
+.a4 .bu0 {
+    display: inline-block;
+    min-width: 140px;
+    min-height: 45px;
+    margin: 5px 4px 5px 10px;
+    background-color: rgb(0, 0, 0);
+    text-transform: capitalize;
+    border-radius: 4px;
+}
+.a4 .bu2 {
+    background-color: rgb(41, 212, 41);
+        border: 2px solid rgb(41, 212, 41);
+}
